@@ -41,3 +41,15 @@ See the GNU Affero General Public License for more details.
 ### sozu-command-lib
 
 sozu-command-lib is released under LGPL version 3
+
+
+
+Please consider donating to the original Sozu Maintainer by sponsering. 
+
+
+Consider buying me a Coffee
+
+BTC: bc1qsevgrns95aa80ah99sqt73t4safy95pujr8gkl
+XMR: 8Amciwv7GMmGPmcZzpin8fKx8wJznxiWAEFndgHFqXX2YfNTKTdiVPWXc9CBbZDhpy6cQs9PbPsDAjRsiWnZVMCyARnFvMb
+ZCash: Upon Request
+BCH: Upon Request
